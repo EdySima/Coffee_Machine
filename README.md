@@ -1,6 +1,6 @@
 # Coffee_Machine
 
-A light graphic java simulation of a coffee machine made in partnership with two more colleagues for a homework assigment
+A light graphic java simulation of a coffee machine made in Java and JavaFX.
 
 Java version: 8
 
