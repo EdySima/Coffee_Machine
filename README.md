@@ -27,8 +27,6 @@ A desktop application built with Java Swing that simulates a modern vending coff
 To run this application, you need:
 - **Java Runtime Environment (JRE) 8.0** or higher installed on your system.
 
-To start the application you need to run Coffee.jre or Coffee_Machine.exe
-
 
 ## Run the application:
 
