@@ -36,3 +36,11 @@ To run this application, you need:
 ```bash
 java -jar Coffee.jar
 ```
+
+
+## Screenshots
+
+![Home Screen](./screenshots/home-screen.png)
+![Credit Screen](./screenshots/credit-screen.png)
+![Srvice Screen](./screenshots/service-mode.png)
+![Unavailable](./screenshots/unavailable-beverages.png)
